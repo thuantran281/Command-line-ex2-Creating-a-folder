@@ -1,0 +1,22 @@
+Admin@VietThuanTran MINGW32 /e/Firstproject (master)
+$ cd /e/Cmdline-vietthuan/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan
+$ git init
+Initialized empty Git repository in E:/Cmdline-vietthuan/.git/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir exercise1
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ cd exercise1
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/exercise1 (master)
+$ mkdir tools
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/exercise1 (master)
+$ ls
+tools/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/exercise1 (master)
+$ git remote add origin https://github.com/thuantran281/Command-line-ex2-Creating-a-folder.git
