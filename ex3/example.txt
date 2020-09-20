@@ -1,0 +1,4 @@
+ctrl+x(choose y/n): choose or not save and exit 
+ctrl+w: where is
+ctrl+u: paste text
+ctrl+k: cut text
